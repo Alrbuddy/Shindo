@@ -28,6 +28,8 @@ Added codes list so you can use codes or click 1 button to redeem all codes for 
 
 Update* All of the bloodline names are on there.
 
+Update* Fixed UI not loading
+
 -----------------------------------------------------------------------
 
 Made by me.
